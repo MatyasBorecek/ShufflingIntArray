@@ -1,0 +1,3 @@
+C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\shuffling_int_array.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\shuffling_int_array.dir/objects.a @CMakeFiles\shuffling_int_array.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\shuffling_int_array.dir/objects.a -Wl,--no-whole-archive  -o shuffling_int_array.exe -Wl,--out-implib,libshuffling_int_array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\shuffling_int_array.dir\linklibs.rsp
